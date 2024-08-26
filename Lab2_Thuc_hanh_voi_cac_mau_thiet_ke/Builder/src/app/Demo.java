@@ -1,9 +1,10 @@
-package director;
+package app;
 
 import builders.CarBuilder;
 import builders.CarManualBuilder;
 import cars.Car;
 import cars.Manual;
+import director.Director;
 
 /**
  * Demo class. Everything comes together here.
